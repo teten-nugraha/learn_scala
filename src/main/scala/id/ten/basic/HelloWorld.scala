@@ -1,4 +1,4 @@
-package id.ten.workingWithData
+package id.ten.basic
 
 
 object HelloWorld {
