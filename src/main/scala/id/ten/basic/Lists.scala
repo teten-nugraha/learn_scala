@@ -25,8 +25,12 @@ object Lists {
     println(names.tail)
     println(mylist.reverse)
 
-    names.foreach(println)
+    names.foreach(coba)
 
+  }
+
+  def coba(value:String): Unit = {
+    println("value dari list ini adalah "+value)
   }
 
 }
