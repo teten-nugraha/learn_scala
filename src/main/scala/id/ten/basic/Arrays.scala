@@ -22,6 +22,9 @@ object Arrays {
     for(i <- 0 to (myarray.length-1)){
       println(myarray(i))
     }
+
+
+    
   }
 
 }
